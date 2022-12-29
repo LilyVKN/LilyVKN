@@ -1,4 +1,4 @@
-hi! i'm nik (she/they) :tada:
+hi! i'm lily (she/they) :tada:
 
 ## background
 major: physics/computer science
