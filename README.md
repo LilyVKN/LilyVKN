@@ -2,17 +2,13 @@ hi! i'm lily (she/they) :tada:
 
 ## background
 major: physics/computer science
-
-minor: 3d animation & archaeology
+minors: 3d animation & archaeology
 
 ## about me
 
 my favorite programming languages: ```FORTRAN```, ```C++```, & ```Python```
 
-i ***love*** documentation
-
-:mage_woman: in my free time, i practice the mystical arts of gardening and
-sewing :thread:
+in my free time, i do historical sewing :thread: my era of focus is 1860s-1890s
 
 --------------------------------------------------------------------------------
 
